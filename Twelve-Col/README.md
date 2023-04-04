@@ -1,5 +1,5 @@
 #The End Design
-![alt text](readMeImg/FullViewDesign.png)
+![alt text](./readMeImg/FullViewDesign.png)
 
 ```
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600;800&family=VT323&display=swap');
@@ -16,7 +16,7 @@ main {
 ```
 
 
-![alt text](readMeImg/1.png)
+![alt text](./readMeImg/1.png)
 In this layout we are going to have two grids, Header and Main.
 
 Each Grid will have 12 columns in it with 30px gap.
@@ -55,7 +55,7 @@ main > h2 {
 }
 ```
 
-![alt text](readMeImg/2.png)
+![alt text](./readMeImg/2.png)
 
 Cards will span 4 columns
 
@@ -77,4 +77,4 @@ The main image will span 10 columns, leaving first and last column empty.
 
 Welcome block and Cards will span 8 columns leaving first and last 2 columns empty.
 
-![alt text](readMeImg/3.png)
+![alt text](./readMeImg/3.png)
