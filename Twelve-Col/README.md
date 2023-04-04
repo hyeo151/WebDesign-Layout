@@ -1,4 +1,6 @@
-#The End Design
+# Twelve Column Layout with Grid
+
+## The End Design
 ![alt text](ReadMeImg/FullViewDesign.png)
 
 ```
@@ -55,7 +57,7 @@ main > h2 {
 }
 ```
 
-![alt text](ReadMeImg/2.png)
+![alt text](ReadMeImg/2.PNG)
 
 Cards will span 4 columns
 
